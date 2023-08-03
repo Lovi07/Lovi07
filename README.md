@@ -1,15 +1,21 @@
-# 💫 About Me:
-Myself<br>
+<h1 align="center">Hi 👋, I'm Lovish Singla</h1>
+<h3 align="center">A passionate learner</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lovi07&label=Profile%20views&color=0e75b6&style=flat" alt="lovi07" /> </p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lovi07&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lovi07&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lovi07&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🌱 I’m currently learning **DSA**
 
----
-[![](https://visitcount.itsvg.in/api?id=lovi07&icon=4&color=12)](https://visitcount.itsvg.in)
+- 💬 Ask me about **MySQL, DSA, Cyber Security, Gym, Movies, Web Series and much more**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📫 How to reach me **lovish.singla8283@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lovish singla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lovish singla" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/lovish07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lovish07" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lovi07&show_icons=true&locale=en&layout=compact" alt="lovi07" /></p>
