@@ -1,10 +1,13 @@
-<h1 align="center">Hey there👋, I'm Lovish Singla</h1>
+<h1 align="center">Hi 👋, I'm Lovish Singla</h1>
 <h3 align="center">A passionate learner</h3>
-<img align="right" alt="coding" width="400" src=""C:\Users\Lovish Singla\OneDrive\Desktop\How-to-code-more-effortlessly-5-Quick-tips-to-boost-productivity.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovi07&label=Profile%20views&color=0e75b6&style=flat" alt="lovi07" /> </p>
 
 - 🌱 I’m currently learning **DSA**
+
+- 👯 I’m looking to collaborate on **Cloud projects**
+
+- 🤝 I’m looking for help with **DSA**
 
 - 💬 Ask me about **MySQL, DSA, Cyber Security, Gym, Movies, Web Series and much more**
 
