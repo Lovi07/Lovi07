@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lovish Singla</h1>
 <h3 align="center">A passionate learner</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2WnInY_6GXWs7xLDvbrIEH&ust=1691125874633000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjViYfdv4ADFQAAAAAdAAAAABAD">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lovi07&label=Profile%20views&color=0e75b6&style=flat" alt="lovi07" /> </p>
 
 - 🌱 I’m currently learning **DSA**
