@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning projects, Computer Vision projects**
 
-- 💬 Ask me about **Sql, Python Libraries, AWS, Busy AS**
+- 💬 Ask me about **Sql, Python, AI-ML**
 
 - 📫 How to reach me **lovish.singla8283@gmail.com**
 
